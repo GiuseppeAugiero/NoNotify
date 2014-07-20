@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# NoNotify.py version 1.1
+# NoNotify.py - version 1.1
 # Thanks to Sherpya
 
 import telnetlib
