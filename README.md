@@ -1,4 +1,5 @@
 NoNotify
 ========
 
-Disabling notify sms on portech (firmware bug)
+Disabling notify sms on portech.
+Resolve firmware bug.
